@@ -5,4 +5,4 @@ An introductory assignment on Data Mining. We start by analyzing the provided da
 Based on this information, we created Bow and TF-IDF representations for the available movies/series, and used them to provide basic 
 content recommendations to the users (Based on their Jaccard/Tanomoto coefficients or their cosine similarities).
 
-Developed in a team of two, with Giorgos Farao (https://github.com/GeorgeFarao)
+This project was developed in collaboration with Giorgos Farao (https://github.com/GeorgeFarao)
